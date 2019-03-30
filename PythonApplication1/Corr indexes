@@ -1,0 +1,61 @@
+robot_gear_compression_diff_1 0.6904060523508051 --> 0.7365365372741757 weapon_robot_armour_index_2: r^2=0.995821
+robot_gear_compression_diff_1--> 0.7766035565897532 robot_gear_compression_diff_3: r^2=0.977334
+robot_gear_compression_diff_1--> 0.7175739705560191  weapon_robot_armour_index_5: r^2=0.996018
+robot_gear_compression_diff_1--> 0.7168415319747203 weapon_robot_armour_index_3: r^2=0.996390
+robot_gear_compression_diff_1--> 0.7183966609642212 robot_gear_circulation_6: r^2=0.996054
+robot_gear_compression_diff_1--> 0.7183907081684463 weapon_robot_punch_left_5: r^2=0.995639
+robot_gear_compression_diff_1--> 0.7340678343462248 robot_gear_compression_1: r^2=0.994744
+robot_gear_compression_diff_1--> 0.7414747344876815 robot_gear_compression_2: r^2=0.993449
+robot_gear_compression_diff_1--> 0.7497654098368934 robot_gear_compression_3: r^2=0.989398
+robot_gear_compression_diff_1--> 0.7445215857019327 weapon_robot_armour_index_4: r^2=0.979651
+
+robot_gear_circulation_13
+
+robot_gear_temperature_diff_1 0.6323411893638651 --> 0.5614954026436125 robot_gear_temperature_diff_2: r^2=0.984455
+robot_gear_temperature_diff_1--> 0.6291562878334199 robot_gear_temperature_diff_3: r^2=0.978563
+robot_gear_temperature_diff_1--> 0.6269323540586945 weapon_robot_eye_laser_sensor_1: r^2=0.959775
+robot_gear_temperature_diff_1--> 0.7865785970185735 robot_gear_temperature_1: r^2=0.920893
+robot_gear_temperature_diff_1--> 0.776810130458115 weapon_robot_punch_right_3: r^2=0.938340
+robot_gear_temperature_diff_1--> 0.7793315802673446 robot_gear_temperature_10: r^2=0.901431
+robot_gear_temperature_diff_1--> 0.7865785970185735 robot_gear_temperature_11: r^2=0.935792
+robot_gear_temperature_diff_1--> 0.7690427319901402 robot_gear_temperature_12: r^2=0.903960
+
+robot_gear_temperature_diff_5 0.15770205389494849 -->robot_gear_temperature_diff_6: r^2=0.902502
+
+robot_gear_temperature_2 0.7265455225036087 --> 0.8152191285070702 robot_gear_temperature_3: r^2=0.959101
+robot_gear_temperature_2--> 0.8260436180560814 robot_gear_temperature_4: r^2=0.961698
+robot_gear_temperature_2--> 0.833478385867318 weapon_robot_eye_laser_emission_4: r^2=0.975285
+robot_gear_temperature_2--> 0.832984807069644 weapon_robot_gun_power_1: r^2=0.977285
+robot_gear_temperature_2--> 0.8153513750965251 robot_gear_temperature_8: r^2=0.976422
+robot_gear_temperature_2--> 0.8159517309950206 robot_gear_temperature_9: r^2=0.979467
+robot_gear_temperature_2--> 0.6725757228920055 robot_probe_circulation_9: r^2=0.913720
+robot_gear_temperature_2--> 0.7255758186832424 weapon_robot_eye_laser_sensor_4: r^2=0.914627
+robot_gear_temperature_2--> 0.7340384671784578 robot_probe_temperature_8: r^2=0.909303
+robot_gear_temperature_2--> 0.732662955022704 robot_probe_temperature_9: r^2=0.905966
+robot_gear_temperature_2--> 0.7320866158456549 weapon_robot_eye_laser_range_1: r^2=0.901350
+
+robot_engine_speed_15-->robot_engine_speed_16: r^2=0.961413
+robot_engine_speed_15-->robot_engine_circulation_7: r^2=0.915991
+
+weapon_robot_eye_laser_emission_2-->robot_engine_temperature_6: r^2=0.967165
+
+robot_engine_temperature_9-->robot_engine_temperature_10: r^2=0.961615
+
+robot_engine_temperature_11 -0.30366708179442403 --> -0.3213487226680213 robot_engine_temperature_12: r^2=0.994960
+robot_engine_temperature_11--> -0.35523031778241726 robot_engine_temperature_13: r^2=0.985216
+robot_engine_temperature_11--> -0.3570408711470513 robot_engine_temperature_14: r^2=0.984040
+robot_engine_temperature_11--> -0.374237211898842 robot_engine_temperature_15: r^2=0.976161
+robot_engine_temperature_11--> -0.37407772961860647 robot_engine_temperature_16: r^2=0.974173
+robot_engine_temperature_11--> -0.3726420065908241 robot_engine_temperature_17: r^2=0.971626
+robot_engine_temperature_11--> -0.38846818095501323 weapon_robot_eye_laser_range_2: r^2=0.971578
+robot_engine_temperature_11--> -0.2848364300096767 robot_engine_temperature_27: r^2=0.975484
+
+robot_engine_temperature_20-->robot_engine_temperature_23: r^2=0.900285
+
+robot_engine_temperature_24-->robot_engine_temperature_25: r^2=0.974012
+
+robot_probe_circulation_2 0.38730829924338694 --> 0.42065281819495426 robot_probe_circulation_7: r^2=0.978308
+
+robot_probe_circulation_6-->weapon_robot_armour_index_1: r^2=0.996973
+robot_probe_circulation_6 0.5824557729970401 --> 0.5773265912428106 robot_probe_circulation_10: r^2=0.997654
+robot_probe_temperature_2 0.6970458729851855 --> 0.7050984601182839 robot_probe_temperature_7: r^2=0.988127
